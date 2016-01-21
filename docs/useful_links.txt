@@ -1,0 +1,6 @@
+## Installing NODEJS
+https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+
+## RESTful API with NODE/EXPRESS
+http://blog.ricardopereira.eu/2014/09/15/PT-restful-api-nodejs/
+
