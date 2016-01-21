@@ -1,0 +1,14 @@
+{
+  "name": "social-thrash",
+  "version": "0.1",
+  "description": "A social thrash sharing app",
+  "main": "server.js",
+  "repository": "",
+  "author": "Alan de Oliveira Silva <habeascorpse@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "ejs": "^2.3.4",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
